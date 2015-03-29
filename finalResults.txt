@@ -1,0 +1,7 @@
+Scores from p6 for Yang,Andy 
+Addresses used: achyang@ucdavis.edu  
+Style: 10 out of 10
+Design: 14 out of 14
+Operation: 31 out of 26
+Warnings (subtracted from design down to zero design score): 0
+Total: 55 out of 50.
